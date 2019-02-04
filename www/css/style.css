@@ -1,0 +1,23 @@
+body {
+    background-image : url("../images/omikuji-bg.png");
+    background-size : cover;
+    background-repeat: no-repeat;
+    margin : 0;
+    padding : 0;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+#omikuji{
+	margin: 20px;
+    width : 60%;
+}
+#playBtn {
+    width: 60%;
+    padding: 10px;
+    font-size: 22px;
+    border-radius: 10px;
+    background-color: #444444;
+    color: white;
+    outline: none;
+}
